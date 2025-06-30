@@ -13,7 +13,7 @@
 - ☁️ Интеграция с облачными сервисами
 - 🔄 Автоматическое обновление копий
 
-🔗 [Подробнее на GitHub](https://cloud.beloil.by)
+🔗 [Подробнее ](https://cloud.beloil.by)
 
 🔗 [Подробнее на GitHub](https://github.com/yourusername/project1)
 
