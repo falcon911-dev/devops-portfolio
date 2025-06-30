@@ -13,7 +13,7 @@
 - ☁️ Интеграция с облачными сервисами
 - 🔄 Автоматическое обновление копий
 
-https://falcon911-dev.github.io/devops-portfolio/
+🔗 [Подробнее на GitHub](https://cloud.beloil.by)
 
 🔗 [Подробнее на GitHub](https://github.com/yourusername/project1)
 
